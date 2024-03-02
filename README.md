@@ -1,4 +1,4 @@
-# Hospital Management System README
+# Hospital Management System
 
 This repository contains the code for a Hospital Management System implemented in a relational database system using Oracle SQL. It includes triggers, procedures, views, cursors, and packages to manage patients, doctors, appointments, billing, and error logging within the hospital.
 
