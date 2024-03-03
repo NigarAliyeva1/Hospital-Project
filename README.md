@@ -13,6 +13,7 @@ This repository contains the code for a Hospital Management System implemented i
    - `create_views.sql`: Defines views for querying appointment details, doctor-patient counts, bill details, and more.
    - `create_cursors.sql`: Defines cursors for fetching specific patient records, allergies rarity, disease counts, and more.
    - `create_packages.sql`: Defines packages containing related procedures and functions for patient registration, doctor registration, appointment booking, bill payment, bill generation, and error logging.
+![Relational_1](https://github.com/NigarAliyeva1/Hospital-Project/assets/112957859/d0d5fd68-fa2a-4c6e-a958-ac95bebfe2a8)
 
 3. **Executing Procedures and Using Cursors**: Utilize the provided procedures to register patients and doctors, book appointments, pay bills, generate bills, and log errors. Cursors are used for fetching and processing data in various scenarios. Example procedure executions and cursor usage are provided in the SQL script `example_procedure_executions.sql`.
 
