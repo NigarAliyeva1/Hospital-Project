@@ -64,3 +64,6 @@ END;
 
 Contributions to improve or extend the functionality of this Hospital Management System are welcome! Feel free to open an issue or submit a pull request.
 
+![patients](https://github.com/NigarAliyeva1/Hospital-Project/assets/112957859/54416864-50cf-4313-9015-9cd08149c44f)
+
+
